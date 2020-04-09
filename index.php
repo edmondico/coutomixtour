@@ -1,2 +1,2 @@
-// Añado comentario a cabecera para enviar a repositorio remoto
+// Añadido comentario
 <?php include_once("$_SERVER[DOCUMENT_ROOT]/home.php"); ?>
